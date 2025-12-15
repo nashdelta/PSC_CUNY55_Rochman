@@ -1,5 +1,5 @@
 # PSC_CUNY55_Rochman
-Characterizing the Urban Rat Gut Virome: Preliminary Results
+**Characterizing the Urban Rat Gut Virome: Preliminary Results**
 
 Rat feces were collected from 5 sites across the Bronx, Queens, and Manhattan (Fig. A) and frozen for bulk preparation. Samples were thawed overnight, weighed, and homogenized. Lysis buffer was added to 50mg of each homogenized sample and whole RNA extraction was performed. Total RNA was quantified and a pooled sample was obtained extracting an equal amount from each sample. Site-normalized RNA extraction was performed in favor of pellet-normalization or bulk extraction per the expectation that this would maximize the viral diversity. Whole RNA was shipped to a commercial sequencing provider who performed total RNA library preparation with both bacterial and ribosomal RNA depletion. Raw reads were analyzed in house.
 
